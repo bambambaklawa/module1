@@ -52,4 +52,11 @@ body {
     color: white;
   }
 
-  
+  main {
+    background-color: rgb(218, 255, 218);
+  }
+
+  footer p {
+    border-radius: 3px;
+    color: black
+  }
