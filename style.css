@@ -47,11 +47,6 @@ body {
     color: black;
   }
 
-  .nav a.active {
-    background-color: #2aadff;
-    color: white;
-  }
-
   main {
     background-color: rgb(218, 255, 218);
   }
